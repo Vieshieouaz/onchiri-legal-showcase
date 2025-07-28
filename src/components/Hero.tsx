@@ -39,7 +39,7 @@ export const Hero = () => {
             
             <Button variant="outline" size="lg" className="text-lg px-8 py-4 text-white border-white hover:bg-white hover:text-primary">
               <Phone className="w-5 h-5 mr-3" />
-              Call +254 700 123 456
+              Call +254 720 849 431
             </Button>
           </div>
           

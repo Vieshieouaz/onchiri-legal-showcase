@@ -120,9 +120,9 @@ const Contact = () => {
                       <div>
                         <h3 className="font-bold mb-2">Phone Numbers</h3>
                         <p className="text-muted-foreground">
-                          Main Office: +254 700 123 456<br />
-                          Mobile: +254 711 987 654<br />
-                          Emergency: +254 722 555 123
+                          Main Office: +254 720 849 431<br />
+                          Mobile: +254 720 849 431<br />
+                          Emergency: +254 720 849 431
                         </p>
                       </div>
                     </div>

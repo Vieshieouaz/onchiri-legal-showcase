@@ -36,7 +36,7 @@ export const ContactCTA = () => {
                 </div>
                 <div>
                   <h3 className="font-bold mb-1">Call Us Directly</h3>
-                  <p className="text-muted-foreground">+254 700 123 456</p>
+                  <p className="text-muted-foreground">+254 720 849 431</p>
                 </div>
               </div>
               

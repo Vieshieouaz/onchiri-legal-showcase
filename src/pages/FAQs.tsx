@@ -175,7 +175,7 @@ const FAQs = () => {
                   Speak directly with our legal team for immediate assistance.
                 </p>
                 <Button variant="outline">
-                  +254 700 123 456
+                  +254 720 849 431
                 </Button>
               </CardContent>
             </Card>
