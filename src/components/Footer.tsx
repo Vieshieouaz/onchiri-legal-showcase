@@ -28,7 +28,7 @@ export const Footer = () => {
           {/* Company Info */}
           <div className="lg:col-span-1">
             <Link to="/" className="flex items-center gap-3 mb-6">
-              <div className="p-2 rounded-lg gradient-gold">
+              <div className="p-2 rounded-lg gradient-red">
                 <Scale className="w-8 h-8 text-white" />
               </div>
               <div>
@@ -103,7 +103,7 @@ export const Footer = () => {
               
               <div className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-accent" />
-                <span className="text-primary-foreground/80">+254 700 123 456</span>
+                <span className="text-primary-foreground/80">+254 720 849 431</span>
               </div>
               
               <div className="flex items-center gap-3">
@@ -112,7 +112,7 @@ export const Footer = () => {
               </div>
             </div>
             
-            <Button variant="gold" className="mt-6 w-full">
+            <Button variant="accent" className="mt-6 w-full">
               <MessageCircle className="w-4 h-4 mr-2" />
               Book Consultation
             </Button>

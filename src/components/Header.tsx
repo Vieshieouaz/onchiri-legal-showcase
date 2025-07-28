@@ -22,7 +22,7 @@ export const Header = () => {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3">
-            <div className="p-2 rounded-lg gradient-gold">
+            <div className="p-2 rounded-lg gradient-red">
               <Scale className="w-8 h-8 text-white" />
             </div>
             <div>
@@ -50,7 +50,7 @@ export const Header = () => {
               <Phone className="w-4 h-4 mr-2" />
               Call Now
             </Button>
-            <Button variant="gold" size="sm">
+            <Button variant="accent" size="sm">
               <MessageCircle className="w-4 h-4 mr-2" />
               Consult
             </Button>
@@ -66,7 +66,7 @@ export const Header = () => {
             <SheetContent side="right" className="w-80">
               <div className="flex flex-col gap-6 mt-8">
                 <div className="flex items-center gap-3">
-                  <div className="p-2 rounded-lg gradient-gold">
+                  <div className="p-2 rounded-lg gradient-red">
                     <Scale className="w-6 h-6 text-white" />
                   </div>
                   <div>
@@ -91,9 +91,9 @@ export const Header = () => {
                 <div className="flex flex-col gap-3 mt-6">
                   <Button variant="outline" className="w-full">
                     <Phone className="w-4 h-4 mr-2" />
-                    +254 700 123 456
+                    +254 720 849 431
                   </Button>
-                  <Button variant="gold" className="w-full">
+                  <Button variant="accent" className="w-full">
                     <MessageCircle className="w-4 h-4 mr-2" />
                     Book Consultation
                   </Button>
